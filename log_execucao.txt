@@ -1,0 +1,31 @@
+LOG DE EXECUÇÃO — ATIVIDADE AVALIATIVA 03
+
+1. Criação do arquivo
+O programa criou dados.txt com:
+45 12 78 3 56 21 90 7 34 18
+
+2. Leitura
+Os dados foram lidos de dados.txt com sucesso.
+
+3. Escolha da ordenação
+Exemplo de escolha: Bubble Sort.
+
+Resultado:
+3 7 12 18 21 34 45 56 78 90
+
+4. Gravação
+O resultado foi salvo em ordenado.txt.
+
+5. Alteração e nova ordenação
+Exemplo:
+Posição alterada: 3
+Valor anterior: 78
+Novo valor: 2
+
+dados.txt atualizado:
+45 12 2 3 56 21 90 7 34 18
+
+Depois de uma nova ordenação:
+2 3 7 12 18 21 34 45 56 90
+
+O resultado atualizado foi salvo novamente em ordenado.txt.
